@@ -10,7 +10,7 @@ Java Software Developer Working with Spring<br>---------------------------------
 # 👨‍💻 My Latest Projects:
 ✈️ [Flight Planner API](https://github.com/AugustsKir/flight-planner) | Made using Spring Boot and Java
 
-💵 [Exchange Rate API](https://github.com/AugustsKir/exchange-rates) | Made using Javalin and Java
+💵 [Exchange Rate API](https://github.com/AugustsKir/exchange-rates) | Made using Javalin and Java | [Groovy/Spring Version](https://github.com/AugustsKir/rates-groovy)
 
 🚗 [Car Model API](https://github.com/AugustsKir/carmodels) | Made using Spring Boot and Java
 

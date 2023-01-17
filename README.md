@@ -12,7 +12,7 @@ Java Software Developer Working with Spring<br>---------------------------------
 
 💵 [Exchange Rate API](https://github.com/AugustsKir/exchange-rates) | Made using Javalin and Java | [Groovy/Spring Version](https://github.com/AugustsKir/rates-groovy)
 
-🚗 [Car Model API](https://github.com/AugustsKir/carmodels) | Made using Spring Boot and Java
+👨‍💻 [User System Backend](https://github.com/AugustsKir/user-system) | Made using Spring Boot and Groovy | [User System Frontend](https://github.com/AugustsKir/user-system-frontend) Made using Angular/TypeScript
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusts-kirsis/) 

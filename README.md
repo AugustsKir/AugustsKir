@@ -1,7 +1,7 @@
-Hi 👋 My name is Augusts
+👋 
 ========================
 
-Java Software Developer Working with Spring<br>-------------------------------------------<br><br>Passionate Software Developer striving to put my skills to good use. Dedicated to achieving demanding objectives while producing the best possible results and learning new skills in the process.<br><br>* 🌍  I'm based in Riga, Latvia<br>* ✉️  You can contact me at [kirsisaugusts@gmail.com](mailto:kirsisaugusts@gmail.com)<br>* 🧠  I'm learning Angular and TypeScript, as well as always gaining new knowledge in Java/Spring.
+Java Software Developer Working with Spring
 
 
 # 💻 Tools:
